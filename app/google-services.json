@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "239892691686",
+    "firebase_url": "https://tienduy-1b5a7.firebaseio.com",
+    "project_id": "tienduy-1b5a7",
+    "storage_bucket": "tienduy-1b5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239892691686:android:e2db245f4ea295dc",
+        "android_client_info": {
+          "package_name": "com.example.duyti.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239892691686-rdh5vl8drj1opr3v2tp2dgrj1lsn7ksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lyVykukpVlhqOobq3EO0dVb8qcHBbXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
